@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-02T12:11:09 IST" name="Default suite" finished-at="2023-08-02T12:11:35 IST" duration-ms="25840">
+    <groups>
+    </groups>
+    <test started-at="2023-08-02T12:11:09 IST" name="Default test" finished-at="2023-08-02T12:11:35 IST" duration-ms="25840">
+      <class name="TestLayer.RegisterPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestLayer.RegisterPageTest@2eae8e6e]" started-at="2023-08-02T12:11:09 IST" name="setup" finished-at="2023-08-02T12:11:31 IST" duration-ms="21937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateResisterFunctionality()[pri:0, instance:TestLayer.RegisterPageTest@2eae8e6e]" started-at="2023-08-02T12:11:31 IST" name="validateResisterFunctionality" finished-at="2023-08-02T12:11:35 IST" duration-ms="3824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResisterFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestLayer.RegisterPageTest@2eae8e6e]" started-at="2023-08-02T12:11:35 IST" name="tearDown" finished-at="2023-08-02T12:11:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestLayer.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
